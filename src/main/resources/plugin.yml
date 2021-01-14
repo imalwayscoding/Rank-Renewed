@@ -1,0 +1,3 @@
+name: Rank
+main: com.github.imalwayscoding.rank.plugin.RankPlugin
+version: 1.0.0
